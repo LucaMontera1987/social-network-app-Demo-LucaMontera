@@ -8,13 +8,13 @@ Questo è un progetto **demo completo di social network**, pensato per mostrare 
 
 -  Registrazione e login con autenticazione JWT (access token + refresh token + httpOnly)
 -  Sistema di amicizie (invia, accetta, rifiuta)
--  Post pubblici con commenti e like (nella versione demo non è incluso la condivisione)
+-  Post pubblici con commenti e like
 -  Notifiche in tempo reale tramite **WebSocket** e **JMS**
 -  Chat privata in tempo reale con **WebSocket STOMP**
--  Caricamento immagini su **Cloudinary** (con URL sicuro per immagini post, e immagini profilo amici,per quando riguarda il profilo personale,ho voluto usare la ricezione immagini tramite byte )
+- Caricamento immagini su Cloudinary (con secure_url per post e profili amici).Per il profilo personale, invece, ho scelto di gestire l'immagine come array di byte, ricevuto dal backend.
 -  Interfaccia moderna e responsive (Tailwind CSS)
 
-ecnologie utilizzate
+### Tecnologie utilizzate
 
 ### Backend (Spring Boot):
 - Java 18
@@ -43,5 +43,5 @@ ecnologie utilizzate
 ## Lavori in corso
 Miglioramento notifiche personalizzate
 Ottimizzazione performance per scroll e caricamento dinamico
-Aggiunta dei test automatici (JUnit e Karma)
+
 
