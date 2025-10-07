@@ -41,8 +41,8 @@ Questo è un progetto **demo completo di social network**, pensato per mostrare 
 - Database MySQL
 
 ## Lavori in corso
-Miglioramento notifiche personalizzate
-Validazione età
-condivisione post
+- Miglioramento notifiche personalizzate
+- Validazione età
+- Condivisione post
 
 
