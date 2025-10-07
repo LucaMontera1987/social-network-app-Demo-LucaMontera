@@ -42,6 +42,7 @@ Questo è un progetto **demo completo di social network**, pensato per mostrare 
 
 ## Lavori in corso
 Miglioramento notifiche personalizzate
-Ottimizzazione performance per scroll e caricamento dinamico
+Validazione età
+condivisione post
 
 
