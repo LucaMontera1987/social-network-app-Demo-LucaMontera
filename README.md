@@ -9,10 +9,10 @@ Questo è un progetto **demo completo di social network**, pensato per mostrare 
 -  Registrazione e login con autenticazione JWT (access token + refresh token + httpOnly)
 -  Sistema di amicizie (invia, accetta, rifiuta)
 -  Post pubblici con commenti e like (nella versione demo non è incluso la condivisione)
-- 📩 Notifiche in tempo reale tramite **WebSocket** e **JMS**
-- 🗨️ Chat privata in tempo reale con **WebSocket STOMP**
-- 📷 Caricamento immagini su **Cloudinary** (con URL sicuro per immagini post, e immagini profilo amici,per quando riguarda il profilo personale,ho voluto usare la ricezione immagini tramite byte )
-- 📱 Interfaccia moderna e responsive (Tailwind CSS)
+-  Notifiche in tempo reale tramite **WebSocket** e **JMS**
+-  Chat privata in tempo reale con **WebSocket STOMP**
+-  Caricamento immagini su **Cloudinary** (con URL sicuro per immagini post, e immagini profilo amici,per quando riguarda il profilo personale,ho voluto usare la ricezione immagini tramite byte )
+-  Interfaccia moderna e responsive (Tailwind CSS)
 
 ecnologie utilizzate
 
